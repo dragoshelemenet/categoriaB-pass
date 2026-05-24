@@ -1,0 +1,722 @@
+[
+  {
+    "id": "IM-001",
+    "slug": "va-este-permisa-trecerea-peste-marcajul-longitudinal-din-imagine",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Vă este permisă trecerea peste marcajul longitudinal din imagine?",
+    "image": "/assets/questions/q-001.png",
+    "answers": [
+      "da, deoarece linia discontinuă este cea mai apropiată de vehiculul pe care îl conduceți",
+      "nu, deoarece este un marcaj dublu",
+      "nu, deoarece în acest caz depășirea este interzisă"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-002",
+    "slug": "indicatorul-va-obliga",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Indicatorul vă obligă:",
+    "image": "/assets/questions/q-002.png",
+    "answers": [
+      "să circulaţi înainte sau la dreapta în prima intersecţie",
+      "să viraţi la stânga, deoarece accesul în celelalte direcţii este interzis",
+      "să urmaţi traseul ocolitor, presemnalizat la dreapta"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-003",
+    "slug": "acest-indicator-va-avertizeaza-ca-urmeaza",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Acest indicator vă avertizează că urmează:",
+    "image": "/assets/questions/q-003.png",
+    "answers": [
+      "alte pericole",
+      "un drum fără marcaje",
+      "un drum cu marcaje"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-004",
+    "slug": "puteti-depasi-in-aceasta-situatie-daca-va-aflati-la-volanul-autoturismul",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Puteţi depăşi în această situaţie, dacă vă aflaţi la volanul autoturismului?",
+    "image": "/assets/questions/q-004.png",
+    "answers": [
+      "nu, deoarece treceţi de axul drumului",
+      "da, manevra este regulamentară",
+      "nu, deoarece marcajul orizontal interzice manevra"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-005",
+    "slug": "la-intalnirea-carui-indicator-conducatorul-auto-nu-are-prioritate-de-tre",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "La întâlnirea cărui indicator conducătorul auto nu are prioritate de trecere?",
+    "image": "/assets/questions/q-005.png",
+    "answers": [
+      "„Prioritate pentru circulaţia din sens invers”",
+      "„Prioritate faţă de circulaţia din sens invers”",
+      "„Drum cu prioritate”"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-006",
+    "slug": "ce-obligatii-aveti-la-intalnirea-indicatorului",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Ce obligaţii aveţi la întâlnirea indicatorului?",
+    "image": "/assets/questions/q-006.png",
+    "answers": [
+      "să circulaţi cu atenţie mărită, pentru a evita pericolele asupra cărora sunteţi avertizat",
+      "să circulaţi cu viteză redusă, deoarece urmează o intersecţie periculoasă",
+      "să circulaţi cu lanţuri antiderapante, în condiţii meteo nefavorabile"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-007",
+    "slug": "indicatorul-precizeaza",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Indicatorul precizează:",
+    "image": "/assets/questions/q-007.png",
+    "answers": [
+      "pe banda din stânga, vehiculele vor circula cu cel mult viteza indicată",
+      "pe banda din dreapta, se poate circula fără restricţie de viteză",
+      "pe banda din stânga, pot circula cei care se deplasează cel puţin cu viteza menţionată"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-008",
+    "slug": "cum-procedati-la-intalnirea-panoului-si-a-indicatorului",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Cum procedați la întâlnirea panoului și a indicatorului?",
+    "image": "/assets/questions/q-008.png",
+    "answers": [
+      "opriți, vă asigurați și acordați prioritate tuturor vehiculelor",
+      "acordați prioritate vehiculelor care circulă din stânga",
+      "acordați prioritate numai vehiculelor de transport public de persoane"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-009",
+    "slug": "ce-obligatii-aveti-la-intalnirea-indicatorului-animale",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Ce obligaţii aveți la întâlnirea indicatorului „Animale“?",
+    "image": "/assets/questions/q-009.png",
+    "answers": [
+      "să reduceţi viteza numai la semnalul celor care însoţesc animale",
+      "circulaţi cu atenţie şi, dacă se impune, reduceţi viteza",
+      "nu aveţi nicio obligaţie, deoarece indicatorul se adresează persoanelor care însoţesc animale"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-010",
+    "slug": "puteti-trece-cu-autovehiculul-peste-o-linie-continua-daca",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Puteţi trece cu autovehiculul peste o linie continuă dacă:",
+    "image": "/assets/questions/q-010.png",
+    "answers": [
+      "linia continuă este însoţită de una discontinuă, iar aceasta din urmă este mai apropiată de sensul dvs. de deplasare",
+      "aceasta este aplicată pe drumuri cu mai mult de o bandă pe sensul de mers",
+      "aceasta separă sensurile de circulaţie"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-011",
+    "slug": "marcajul-aplicat-pe-marginea-din-dreapta-a-partii-carosabile-format-dint",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Marcajul aplicat pe marginea din dreapta a părţii carosabile, format dintr-o linie în zig-zag, semnifică:",
+    "image": "/assets/questions/q-011.png",
+    "answers": [
+      "interzicerea staţionării",
+      "interzicerea opririi",
+      "alte pericole"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-012",
+    "slug": "sfarsitul-zonei-in-care-oprirea-a-fost-interzisa-este-anuntata-de",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Sfârșitul zonei în care oprirea a fost interzisă este anunțată de:",
+    "image": "/assets/questions/q-012.png",
+    "answers": [
+      "ambele indicatoare",
+      "indicatorul 1",
+      "indicatorul 2, însoțit de panoul adițional"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-013",
+    "slug": "care-dintre-cele-doua-indicatoare-obliga-la-schimbarea-directiei-de-mers",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Care dintre cele două indicatoare obligă la schimbarea direcției de mers spre dreapta, după depășirea locului unde este instalat?",
+    "image": "/assets/questions/q-013.png",
+    "answers": [
+      "indicatorul 2",
+      "indicatorul 1",
+      "ambele indicatoare"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-014",
+    "slug": "care-dintre-indicatoare-anunta-sfarsitul-drumului-cu-prioritate",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Care dintre indicatoare anunță sfârșitul drumului cu prioritate?",
+    "image": "/assets/questions/q-014.png",
+    "answers": [
+      "niciunul",
+      "ambele",
+      "indicatorul 1"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-015",
+    "slug": "indicatorul-din-imagine-semnifica",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Indicatorul din imagine semnifică:",
+    "image": "/assets/questions/q-015.png",
+    "answers": [
+      "„Circulație în ambele sensuri“",
+      "„Circulația interzisă în ambele sensuri“",
+      "„Prioritate pentru circulația din sens invers“"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-016",
+    "slug": "ce-vehicule-aveti-permisiunea-de-a-depasi-in-situatia-data",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Ce vehicule aveți permisiunea de a depăși în situația dată?",
+    "image": "/assets/questions/q-016.png",
+    "answers": [
+      "vehiculele cu tracțiune animală, bicicletele și motocicletele fără ataș",
+      "autoturismele, motocicletele fără ataș și vehiculele cu tracțiune animală",
+      "autovehiculele, cu excepția motocicletelor fără ataș"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-017",
+    "slug": "care-dintre-indicatoare-obliga-la-schimbarea-directiei-de-mers-pe-prima",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Care dintre indicatoare obligă la schimbarea direcției de mers pe prima stradă la dreapta?",
+    "image": "/assets/questions/q-017.png",
+    "answers": [
+      "indicatorul 1",
+      "indicatorul 2",
+      "ambele indicatoare"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-018",
+    "slug": "in-aceasta-situatie-opriti",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "În această situație opriți:",
+    "image": "/assets/questions/q-018.png",
+    "answers": [
+      "la linia transversală",
+      "în dreptul semaforului",
+      "pe trecerea pentru pietoni"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-019",
+    "slug": "indicatorul-va-avertizeaza-ca",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Indicatorul vă avertizează că:",
+    "image": "/assets/questions/q-019.png",
+    "answers": [
+      "drumul se intersectează cu o trecere la nivel cu linii de tramvai",
+      "urmează o staţie de tramvai prevăzută cu refugiu pentru pietoni",
+      "urmează o trecere la nivel cu o cale ferată fără bariere sau semibariere, cu semnalizare automată"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-020",
+    "slug": "ce-semnificatie-are-indicatorul-din-imagine",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Ce semnificație are indicatorul din imagine?",
+    "image": "/assets/questions/q-020.png",
+    "answers": [
+      "trecere cu bacul peste o apă",
+      "drum denivelat",
+      "accesul interzis vehiculelor care transportă substanțe de natură să polueze apele"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-021",
+    "slug": "marcajul-longitudinal-continuu-aplicat-pe-axul-drumului-permite-incalcar",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Marcajul longitudinal continuu, aplicat pe axul drumului, permite încălcarea lui:",
+    "image": "/assets/questions/q-021.png",
+    "answers": [
+      "numai de către conducătorii de motociclete şi mopede",
+      "numai de către vehiculele cu gabarit depăşit",
+      "nu, în nicio situaţie"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-022",
+    "slug": "indicatorul-pe-care-il-intalniti-va-informeaza-ca-urmeaza",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Indicatorul pe care îl întâlniţi vă informează că urmează:",
+    "image": "/assets/questions/q-022.png",
+    "answers": [
+      "o ieşire de pe autostradă",
+      "o staţie de taxare pentru circulaţia pe autostrăzi",
+      "un loc special amenajat, unde puteţi face o pauză pentru odihnă"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-023",
+    "slug": "ce-semnifica-indicatorul",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Ce semnifică indicatorul?",
+    "image": "/assets/questions/q-023.png",
+    "answers": [
+      "drum aglomerat",
+      "interval obligatoriu între autovehicule",
+      "distanță obligatorie de oprire"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-024",
+    "slug": "unde-veti-parca-vehiculul-la-intalnirea-acestui-indicator",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Unde veți parca vehiculul la întâlnirea acestui indicator?",
+    "image": "/assets/questions/q-024.png",
+    "answers": [
+      "pe direcția indicată, în parcarea special amenajată",
+      "pe trotuar, perpendicular pe acesta",
+      "pe trotuar, în lungul acestuia"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-025",
+    "slug": "ce-obligatii-aveti-la-intalnirea-indicatorului-biciclisti",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Ce obligaţii aveţi la întâlnirea indicatorului „Biciclişti“?",
+    "image": "/assets/questions/q-025.png",
+    "answers": [
+      "să reduceţi viteza la maximum 30 km/h",
+      "să circulaţi cu atenţie şi, dacă este cazul, acordaţi prioritate de trecere bicicliştilor care circulă pe pista special destinată",
+      "nu aveţi nicio obligaţie, bicicliştii vă vor acorda prioritate"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-026",
+    "slug": "semnificatia-unui-indicator-rutier-instalat-deasupra-unei-benzi-de-circu",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Semnificaţia unui indicator rutier, instalat deasupra unei benzi de circulaţie, este valabilă:",
+    "image": "/assets/questions/q-026.png",
+    "answers": [
+      "numai pentru circulaţia rutieră care se desfăşoară în tunele",
+      "numai pentru banda deasupra căreia este instalat",
+      "pentru toată lăţimea părţii carosabile"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-027",
+    "slug": "autoturismul-alb-din-dreapta-dvs-a-oprit-regulamentar",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Autoturismul alb din dreapta dvs. a oprit regulamentar?",
+    "image": "/assets/questions/q-027.png",
+    "answers": [
+      "da, deoarece semnul adițional indică sfârșitul zonei unde oprirea este interzisă",
+      "nu, deoarece se află în zona de acțiune a indicatorului „Oprirea interzisă“",
+      "nu, deoarece indicatorul „Oprirea interzisă“ nu permite oprirea la o distanță mai mică de 100 m de acesta"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-028",
+    "slug": "ce-semnificatie-are-marcajul-longitudinal-aplicat-sub-forma-unei-linii-c",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Ce semnificaţie are marcajul longitudinal aplicat sub forma unei linii continue pe axul drumurilor publice?",
+    "image": "/assets/questions/q-028.png",
+    "answers": [
+      "ajută conducătorii auto să se orienteze pe timp de noapte",
+      "nu permite încălcarea lui de către conducătorii de vehicule",
+      "permite depăşirea vehiculelor"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-029",
+    "slug": "pe-ce-banda-de-circulatie-va-incadrati-pentru-a-vira-la-stanga-intr-o-in",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Pe ce bandă de circulaţie vă încadraţi pentru a vira la stânga, într-o intersecţie semnalizată cu astfel de marcaje?",
+    "image": "/assets/questions/q-029.png",
+    "answers": [
+      "pe banda de circulaţie nr.1",
+      "pe benzile de circulaţie nr. 2 si 3",
+      "pe banda de circulaţie nr. 4"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  },
+  {
+    "id": "IM-030",
+    "slug": "indicatorul-interzice",
+    "category": "indicatoare-si-marcaje",
+    "lessonSlug": "indicatoare-si-marcaje",
+    "title": "Indicatorul interzice:",
+    "image": "/assets/questions/q-030.png",
+    "answers": [
+      "depășirea",
+      "virajul la stânga sau la dreapta",
+      "întoarcerea"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Explicația oficială va fi completată aici. Poți adăuga textul în data/questions.json la câmpul explanation.",
+    "tags": [
+      "categoria-b",
+      "indicatoare",
+      "marcaje"
+    ],
+    "videos": [],
+    "needsReview": true
+  }
+]

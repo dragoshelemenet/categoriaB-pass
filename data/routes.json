@@ -1,0 +1,15 @@
+[
+  {
+    "slug": "model-traseu-examen-categoria-b",
+    "title": "Model traseu examen Categoria B",
+    "description": "Șablon pentru traseu filmat: adaugă video, capturi și explicații pas cu pas.",
+    "videoUrl": "",
+    "steps": [
+      {
+        "title": "Punct important pe traseu",
+        "image": "",
+        "description": "Adaugă aici captura de pe traseu și explicația: unde oprești, cui acorzi prioritate, ce semn vezi și ce faci."
+      }
+    ]
+  }
+]

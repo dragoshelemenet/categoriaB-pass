@@ -1,0 +1,1 @@
+{"scripts":{"build":"node scripts/generate.js","dev":"node scripts/generate.js && npx serve dist","preview":"npx serve dist"},"devDependencies":{"serve":"latest"},"dependencies":{}}

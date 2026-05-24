@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "indicatoare-si-marcaje",
+    "title": "Indicatoare și marcaje",
+    "description": "Întrebări Categoria B despre indicatoare rutiere, marcaje și semnificațiile acestora.",
+    "tags": [
+      "indicatoare",
+      "marcaje",
+      "categoria-b"
+    ],
+    "questionIds": [
+      "IM-001",
+      "IM-002",
+      "IM-003",
+      "IM-004",
+      "IM-005",
+      "IM-006",
+      "IM-007",
+      "IM-008",
+      "IM-009",
+      "IM-010",
+      "IM-011",
+      "IM-012",
+      "IM-013",
+      "IM-014",
+      "IM-015",
+      "IM-016",
+      "IM-017",
+      "IM-018",
+      "IM-019",
+      "IM-020",
+      "IM-021",
+      "IM-022",
+      "IM-023",
+      "IM-024",
+      "IM-025",
+      "IM-026",
+      "IM-027",
+      "IM-028",
+      "IM-029",
+      "IM-030"
+    ],
+    "confirmedVideoIds": []
+  },
+  {
+    "slug": "semnalele-politistilor",
+    "title": "Semnalele polițiștilor",
+    "description": "Lecție pregătită pentru import întrebări și video-uri.",
+    "tags": [
+      "politist",
+      "semnale"
+    ],
+    "questionIds": [],
+    "confirmedVideoIds": []
+  },
+  {
+    "slug": "semnale-luminoase",
+    "title": "Semnale luminoase",
+    "description": "Lecție pregătită pentru import întrebări și video-uri.",
+    "tags": [
+      "semafor",
+      "lumini"
+    ],
+    "questionIds": [],
+    "confirmedVideoIds": []
+  },
+  {
+    "slug": "prioritate-de-trecere",
+    "title": "Prioritate de trecere",
+    "description": "Reguli de prioritate pentru Categoria B.",
+    "tags": [
+      "prioritate",
+      "intersectii"
+    ],
+    "questionIds": [],
+    "confirmedVideoIds": []
+  },
+  {
+    "slug": "oprirea-stationarea-si-parcarea",
+    "title": "Oprirea, staționarea și parcarea",
+    "description": "Reguli pentru oprire, staționare și parcare.",
+    "tags": [
+      "oprire",
+      "stationare",
+      "parcare"
+    ],
+    "questionIds": [],
+    "confirmedVideoIds": []
+  }
+]
